@@ -1,0 +1,2 @@
+在spring配置文件中放两个bean，class一样，没有id，不报错，名字是全类名#0开始，如果调用getBean(类名.class)会报错。
+
